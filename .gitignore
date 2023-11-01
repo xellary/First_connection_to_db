@@ -3,8 +3,8 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 postgresql-42.6.0.jar
-HW5.iml
-.idea
+src/HW5.iml
+.idea/
 
 
 ### Eclipse ###
